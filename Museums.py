@@ -1,13 +1,11 @@
 import io
 import os
-#import time
 import codecs
 import fileinput
 from factual import *
 
 FILE_NAME= "VenueList.txt"
 DEST_FILE = "Updated-VenueList.txt"
-#API_OFFSET = "50"
 API_LIMIT = 50
 
 
@@ -77,8 +75,7 @@ def transform_resultset(source_file):
    finally:
          #clean up after urself, kid
          dest_file.close()    
-         print("\nALL CITIES:\nstring replace completed")      
-         #os.remove(source_file)       
+         print("\nALL CITIES:\nstring replace completed")               
 
 
 def extract_to_staging(stage_file, result_set, city):
@@ -108,13 +105,13 @@ def run_search():
       search = museums.filters(
                                {"$and": [
                                          {"locality":"{}".format(cities)},
-                                         {"category":"Arts, Entertainment & Nightlife > Museums"}
+                                         {"category_ids":"311"}  #API ver3
                                          ]
                                 }
                                ).limit(API_LIMIT)      
       
       venues[cities] = search.data()     
-      #write results to csv file  - MULTIPLE times
+      #write results to csv file 
       src_file = extract_to_staging(stage_file, venues[cities], cities)
    #end for        
       
