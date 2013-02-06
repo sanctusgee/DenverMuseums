@@ -4,8 +4,8 @@ import codecs
 import fileinput
 from factual import *
 
-FILE_NAME= "VenueList.txt"
-DEST_FILE = "Updated-VenueList.txt"
+FILE_NAME= "VenueList.csv"
+DEST_FILE = "Updated-VenueList.csv"
 API_LIMIT = 50
 
 
