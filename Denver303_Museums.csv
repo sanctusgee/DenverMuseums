@@ -1,0 +1,50 @@
+factual_id,name,address,address_extended,locality,region,postcode,country,tel,fax,latitude,longitude,neighborhood,website,email
+32b7f026-13e2-48cf-8e57-6a4f28bb8b61,Arts Communications,200 Grant St,,Denver,CO,80203,us,(303) 715-1588,,39.720963,-104.983788,"Speer,Alamo Placita,Capitol Hill",http://www.artstozoo.org,
+072a124d-db03-4ff5-8040-8c006d2e34e3,Byers-Evans House,1310 Bannock St,,Denver,CO,80204,us,(303) 620-4933,,39.737093,-104.989839,"Golden Triangle,Capitol Hill,Civic Center",http://www.coloradohistory.org/be,
+3f1b2c7f-3f46-47c7-b72f-814ea1307366,Chicano Humanities and Arts Council,772 Santa Fe Dr,,Denver,CO,80204,us,(303) 571-0440,,39.727737,-104.99853,"Golden Triangle,Capitol Hill",http://chacweb.org,chac2515@aol.com
+515be356-301f-42ea-b0f0-63e3d69cf7c2,"Children's Museum, Information Line",2121 Childrens Museum Dr,,Denver,CO,80211,us,(303) 433-7444,,39.74881,-105.016505,"North Denver,Auraria,Lodo",,
+8c5c31c1-4d83-4ebb-849c-929ef55ab2d7,"Children's Museum, Reservation Line",2121 Childrens Museum Dr,,Denver,CO,80211,us,(303) 561-3370,,39.74881,-105.016505,,,
+4edc7b9e-749f-46f5-b113-fd1bfd7ab53c,Clyfford Still Museum,201 W Colfax Ave,# 1007,Denver,CO,80202,us,(720) 865-4317,,39.740673,-104.99048,"Downtown Denver,Civic Center,Central Business District",http://www.clyffordstillmuseum.org,
+4c5295cb-3517-4072-b923-b5013775ea4c,Co Consortium-Community Arts,1940 S Locust St,,Denver,CO,80224,us,(303) 722-8689,,39.680662,-104.913938,"Glendale,Southeast Denver",,
+5732e707-1f9f-4a2e-b446-bc0184d126c1,Collections Research For Museums,4830 E Kansas Dr,,Denver,CO,80246,us,(303) 757-7962,,39.695354,-104.931125,Glendale,http://www.museumcollectionmgmt.com,schaller@rmi.net
+366f4632-9456-431c-8d1c-9d3a3452143a,Colorado Convention Center,700 14th St,,Denver,CO,80202,us,(303) 228-8000,(303) 228-8104,39.743301,-104.995003,"CBD,Downtown Denver,Civic Center,Central Business District",http://www.denverconvention.com,jadams@denverconvention.com
+ebfa0299-312a-4ebf-9d5f-0d7cfca7745f,Colorado Creative Industries,1625 Broadway,Ste 2700,Denver,CO,80202,us,(303) 892-3802,,39.74284,-104.987381,"North Capitol Hill,Western Area,Downtown Denver,Capitol Hill,Civic Center",,
+9f35d1c1-2449-4a54-ad7b-f6e57b8cae5f,Colorado History Museum,1300 Broadway,Ste 1,Denver,CO,80203,us,(303) 866-3682,,39.73683,-104.987372,"Downtown Denver,Golden Triangle,Capitol Hill,Civic Center",http://www.coloradohistory.org,rita.rollman@chs.state.co.us
+7681578e-60bd-4ea6-85c7-6a5e6e6f5f32,Colorado Military History,6840 Richthofen Pkwy,,Denver,CO,80220,us,(303) 377-4048,,39.734276,-104.908504,"Hilltop,Montclair",,
+643ca4ed-44b9-4904-ab08-5f8998a62878,Colorado Sports Hall of Fame,1701 Mile High Stadium Cir,Ste 500,Denver,CO,80204,us,(720) 258-3888,,39.743573,-105.01726,"Auraria,Lodo,Sunvalley",http://www.coloradosports.org,
+84712727-8df4-4f44-83da-f4a4b3eb5988,Denver Contemporary Art Museum,1275 19th St,,Denver,CO,80202,us,(303) 298-7554,,39.751701,-104.994003,"Downtown Denver,Lodo,Lower Downtown",http://www.mocadenver.com,moca-d@ecentral.com
+523cb993-269f-43f5-b4bb-5e517850f09a,Denver Firefighters Museum,1326 Tremont Pl,,Denver,CO,80204,us,(303) 892-1436,(303) 893-4835,39.740551,-104.992755,"Downtown Denver,Civic Center,Central Business District",http://www.denverfirefightersmuseum.org,info@denverfirefightersmuseum.org
+a11afdf1-80b1-4f8d-a664-a04b038e1959,"Denver Museum of Miniatures, Dolls, and Toys",1880 Gaylord St,,Denver,CO,80206,us,(303) 322-1053,(303) 322-3704,39.745478,-104.960831,"City Park West,Capitol Hill",http://www.dmmdt.org,
+17a79797-4106-4b10-8f35-8aa7aee43d92,Denver Museum of Nature and Science,1745 Stout St,,Denver,CO,80299,us,(303) 370-6366,,39.74735,-104.991407,"Western Area,Downtown Denver,Lodo,Central Business District",,
+25463ddc-a6b5-44da-98f7-d813a7fdcf34,Denver Museum of Nature and Science,2001 Colorado Blvd,,Denver,CO,80205,us,(303) 322-7009,(303) 331-6492,39.748001,-104.941002,"Park Hill,Hilltop,Skyland",http://www.dmns.org,pandrews@dmns.org
+68227b98-4f44-49bf-8158-39a48e0ce7dd,Dikeou Collection,1615 California St,Ste 501,Denver,CO,80202,us,(303) 623-3001,,39.745375,-104.991971,"Western Area,Downtown Denver,Lodo,Central Business District",,info@dikeoucollection.org
+3441ee2d-3b1a-445c-a359-df7148ae4cd2,Fantasy of Flight Foundation,7711 E Academy Blvd,,Denver,CO,80230,us,(303) 344-9331,,39.718955,-104.8972,"Hilltop,Lowry",,
+71b21ff2-8620-4017-acac-6007e68bd042,Forney Transportation Museum,4303 Brighton Blvd,Bldg 1,Denver,CO,80216,us,(303) 297-1113,,39.777178,-104.969957,"Lodo,Elyria Swansea",http://forneymuseum.org/basicinfo.htm,giftshop@forneymuseum.org
+3e8739a6-90b0-4bcb-adc5-0fa9b2c244cd,Four Mile Historic Park,715 S Forest St,,Denver,CO,80246,us,(720) 865-0800,(720) 865-0801,39.704409,-104.926862,"Glendale,Washington Virginia Vale",http://www.fourmilepark.org,fourmilehouse.museum@ci.denver.co.us
+55567f7c-a99e-4947-a96e-477f66d73bd9,Friends of Historic Ft Logan,3742 W Princeton Cir,,Denver,CO,80236,us,(303) 789-3568,,39.642276,-105.037935,Southwest Denver,http://www.friendsofhistoricfortlogan.org,
+bd9fbe3f-fad2-4d3b-a2b4-36b065d7a3a6,Giant Interactive,2710 Walnut St,,Denver,CO,80205,us,(303) 458-6000,,39.760226,-104.984879,"Five Points,Lodo,Ballpark",http://www.giant-interactive.com,
+26fce568-cc71-4abe-b109-4a9cb18fad0f,Historic Denver,1536 Wynkoop St,Ste 400A,Denver,CO,80202,us,(303) 534-5288,,39.751301,-105.001999,"Northwest,Lodo",http://www.historicdenver.org,
+aae3a0ae-49a5-418b-8667-7750d03aac29,Holistic Healing Arts,190 E 9th Ave,,Denver,CO,80203,us,(303) 839-1659,,39.730375,-104.985996,"Golden Triangle,Capitol Hill",,
+6b757d9d-9313-447d-8a04-22308779b776,Kirkland Museum of Fine and Decorative Art,1311 Pearl St,,Denver,CO,80203,us,(303) 832-8576,(303) 832-8404,39.736993,-104.980104,"Capitol Hill,Civic Center",http://www.kirklandmuseum.org,info@vancekirkland.org
+ddb4d5c0-d829-012e-561a-003048cad9da,MCA Denver,1485 Delgany St,,Denver,CO,80202,us,(303) 298-7554,,39.752141,-105.004082,"Union Station,Downtown Denver,Lodo,Lower Downtown",,
+0daa50c6-e0e4-4cf9-9f11-2e03ba3d7eb5,Mizel Museum,400 S Kearney St,,Denver,CO,80224,us,(303) 394-9993,(303) 394-1119,39.708673,-104.917731,"Glendale,Hilltop",http://mizelmuseum.org,
+732663f0-1e18-012f-0643-0030487f54d8,Molly Brown House Museum,1340 Pennsylvania St,,Denver,CO,80203,us,(303) 832-4092,(303) 832-2340,39.737394,-104.980939,Capitol Hill,http://www.mollybrown.org,
+b0e4b58e-a861-4df0-ad24-050f7ee94737,Museo De Las Americas,861 Santa Fe Dr,,Denver,CO,80204,us,(303) 571-4401,(303) 607-9761,39.730048,-104.999063,"Golden Triangle,Civic Center",http://museo.org,pauline@museo.org
+0bbbb816-c697-4a0b-91a2-b3f1f2694fa7,Museum of Contemporary Art Denver,1485 Delgany St,,Denver,CO,80202,us,(303) 298-7554,(303) 298-7553,39.752154,-105.004056,"Union Station,Downtown Denver,Lodo,Lower Downtown",http://www.mcadenver.org,alih@mcadenver.org
+11ef1d87-3b26-4c76-8d41-8da6845fad45,Museum Residences,1200 Acoma St,,Denver,CO,80204,us,(303) 623-1119,,39.735261,-104.988936,"Golden Triangle,Capitol Hill,Civic Center",http://www.museumresidences.com,
+e6760404-00d9-4d22-8b31-6fa5f48a4bfb,Museum Residences,65 W 12th Ave,,Denver,CO,80204,us,(303) 623-1119,,39.735227,-104.987387,"Downtown Denver,Golden Triangle,Capitol Hill,Civic Center",http://www.museumresidences.com,
+42c3aa03-1ac5-457d-8946-260a1259bca2,Rotary Club,1350 Lawrence St,Ste 100,Denver,CO,80204,us,(303) 893-5454,,39.746542,-104.998976,"Downtown Denver,Lodo,Lower Downtown,Central Business District",http://www.rotary-denver31.org,
+d47d1ec5-b413-4d1d-9df0-bb83b23a49ef,Schaller Donald,4830 E Kansas Dr,,Denver,CO,80246,us,(303) 757-7962,,39.695202,-104.931,Glendale,,
+6d9dc100-48d1-4e28-901d-2925f54be8b7,Sizzle and Bang Galleries,767 Santa Fe Dr,,Denver,CO,80204,us,(303) 534-0204,,39.728335,-104.998777,"Golden Triangle,Capitol Hill",http://www.sizzleandbang.com,
+37dcc2c0-97ca-43d9-958e-1a5102a03ae5,Sports Museum,2600 S Columbine St,,Denver,CO,80210,us,(303) 777-1299,,39.668717,-104.956541,"University Hills,Wellshire",http://sportsmuseumla.com,
+262a01bc-c72f-4f59-b139-b9129ecc8bbd,Stiles African American Heritage Center,2607 Glenarm Pl,,Denver,CO,80205,us,(303) 294-0597,,39.753499,-104.978447,"North Capitol Hill,Five Points,Downtown Denver",,grace@stilesheritagecenter.org
+7fdf8860-1e18-012f-0643-0030487f54d8,The Bee House,715 S Forest St,,Denver,CO,80246,us,(303) 399-1859,,39.703696,-104.926577,"Glendale,Washington Virginia Vale",,
+78debf2f-8d85-4082-a982-f0274f31d967,The Black American West Museum,3091 California St,,Denver,CO,80205,us,(303) 482-2242,(303) 382-1981,39.759261,-104.974476,"Northwest,Curtis Park",http://www.blackamericanwestmuseum.com,
+2600f678-63da-497c-9552-79e1a98b6571,The Cell,99 W 12th Ave,,Denver,CO,80204,us,(303) 844-4000,,39.735251,-104.988821,"Golden Triangle,Capitol Hill,Civic Center",http://www.thecell.org,yaffa@thecell.org
+8f277085-de25-43de-9c54-da534bf27cd1,The Children's Museum,2121 Childrens Museum Dr,,Denver,CO,80211,us,(303) 433-7444,(303) 433-9520,39.74997,-105.016461,"North Denver,Auraria,Lodo",http://www.mychildsmuseum.org,
+0ada3951-9731-4cb4-a45f-38badf788c5f,Victoria H Myhren Gallery,2121 E Asbury Ave,,Denver,CO,80210,us,(303) 871-3716,,39.68027,-104.962924,"University Hills,University",,
+9bfe38b6-5a04-4d38-a30a-2f1f8dff1b9a,Vintage Motos-Museum,2762 Walnut St,,Denver,CO,80205,us,(303) 993-7693,,39.760664,-104.984126,"Five Points,Lodo,Ballpark",,
+9435f35a-af55-4e5f-897d-37a115f3d11a,Whitlock Flint Creative,6840 Richthofen Pkwy,,Denver,CO,80220,us,(303) 377-4048,,39.734349,-104.908875,,,
+b5db5bf3-1e63-421e-b5a6-7f82d0cc7328,Wings Over the Rockies Museum,7711 E Academy Blvd,# 1,Denver,CO,80230,us,(303) 360-5360,(303) 360-5328,39.720966,-104.895435,"Hilltop,Lowry",http://www.wingsmuseum.org,events@wingsmuseum.org
+f069019f-320d-4e34-b175-e6e50ae07567,Young Audiences,1421 Larimer St,,Denver,CO,80202,us,(720) 904-8890,,39.748141,-104.998934,,http://www.youngaudiences.org,
+,Denver Art Museum,100 W 14th Ave Pkwy,,Denver,CO,80204,us,720-865-5000,,39.737473,-104.989525,"Golden Triangle,Capitol Hill,Civic Center",http://denverartmuseum.org/,
