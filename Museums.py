@@ -1,4 +1,6 @@
-#!/usr/bin/env python# -*- coding: UTF-8 -*-# (c) 2013 Godwin Effiong
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+# (c) 2013 Godwin Effiong
 
 import io
 import os
